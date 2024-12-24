@@ -1,4 +1,4 @@
-public class recursion4 {
+public class leetcode50 {
     // x^n using recusive method
     public static double power(int n, double x){
         //x^n-1
