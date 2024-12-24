@@ -2,7 +2,7 @@
 // partitions of an integer
 import java.util.*;
 
-class integer_partition 
+class leetcode377 
 {
 	// Function to print an array p[] of size n
 	static void printArray(int p[], int n)
